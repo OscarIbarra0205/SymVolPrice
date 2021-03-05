@@ -1,0 +1,21 @@
+{
+  "signals": [
+
+    {
+      "sym": "Amazon",
+      "vol": "150",
+      "price":"55"
+    },
+    {
+      "sym": "Google",
+      "vol":"150",
+      "price":"5"
+    },
+    {
+      "sym": "Aple",
+      "vol": "500",
+      "price":"7"
+    }
+  
+   ]
+}
